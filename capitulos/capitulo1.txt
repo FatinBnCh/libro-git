@@ -1,0 +1,2 @@
+git es un sistema de contrtol de verisones ideado por linus torvalds
+
